@@ -16,3 +16,6 @@ Trolls can be pushed, collision not perfect can go through walls.just drawing  d
 27th May 2021 : boxes sticks to hands , also slippery ground effect for the boxes... 
 just one level, short press and release arrows to make it move, press bar when it is placed upon targets.
 
+Goal : place boxes on spotted tiles and press bar to stabilize it. Idem for diamonds on the logo diamond place.
+Stabilized forms have inverted colors.
+Trolls are just for challenge.
