@@ -1,4 +1,7 @@
 # sarkadban : Work in Progress
+NEED development branch (see requirment.txt if you need)
+-----
+
 Sokoban remix made with python3.8.5 and arcade library
 
 28th may 2021: you can save the player position pressing zero numpad keyboard. Trolls can be pushed, collision not perfect can go through walls.just drawing  diamonds.
