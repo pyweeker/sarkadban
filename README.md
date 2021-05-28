@@ -1,4 +1,4 @@
-# sarkadban
+# sarkadban : Work in Progress
 Sokoban remix made with python3.8.5 and arcade library
 
 28th may 2021: you can save the player position pressing zero numpad keyboard.
