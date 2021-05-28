@@ -1,1 +1,2 @@
-pipenv install arcade
+pipenv install https://github.com/pythonarcade/arcade/archive/refs/heads/development.zip
+
