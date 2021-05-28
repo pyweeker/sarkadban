@@ -5,6 +5,7 @@ NEED development branch (see requirement.txt if you need)
 Sokoban remix made with python3.8.5 and arcade library
 
 29th may 2021: solved saving games with different texture inside a same layer ! see troll layer
+i will fix diamonds this week end.
 ------------------------
 
 28th may 2021:  Play with arrows, press bar if boxes are upon their spoted area to store it definitively.
