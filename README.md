@@ -1,5 +1,5 @@
 # sarkadban : Work in Progress
-NEED development branch (see requirment.txt if you need)
+NEED development branch (see requirement.txt if you need)
 -----
 
 Sokoban remix made with python3.8.5 and arcade library
