@@ -4,9 +4,11 @@ NEED development branch (see requirement.txt if you need)
 
 Sokoban remix made with python3.8.5 and arcade library
 
+31th May : diamonds physics added
+--------
 29th may 2021: solved saving games with different texture inside a same layer ! see troll layer
 i will fix diamonds this week end. You can help me to improve a more natural contact when pushing boxes +++
-------------------------
+
 
 28th may 2021:  Play with arrows, press bar if boxes are upon their spoted area to store it definitively.
 you can save the player, boxes and static boxes position pressing zero numpad keyboard.
