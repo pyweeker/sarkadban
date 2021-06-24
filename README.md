@@ -4,11 +4,14 @@ NEED development branch (see requirement.txt if you need)
 
 Sokoban remix made with python3.8.5 and arcade library
 
+24 th june : fixing it, buggy and so dirty
+-------
+
 8th june: broken due to Arcade development branch modification, will be fixed soon
 --------
 
 31th May : diamonds physics added
---------
+
 29th may 2021: solved saving games with different texture inside a same layer ! see troll layer
 i will fix diamonds this week end. You can help me to improve a more natural contact when pushing boxes +++
 
