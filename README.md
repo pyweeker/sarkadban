@@ -4,8 +4,11 @@ NEED development branch (see requirement.txt if you need)
 
 Sokoban remix made with python3.8.5 and arcade library
 
-27th june fixed diamonds with run_32.py , need to check saving game
+30th june : Num_0 to save game, ok for trolls, check for static placed diamonds
 -----------
+
+27th june fixed diamonds with run_32.py , need to check saving game
+
 
 26th june need to fix diamonds
 
