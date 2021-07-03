@@ -4,7 +4,7 @@ NEED development branch (see requirement.txt if you need)
 
 Sokoban remix made with python3.8.5 and arcade library
 
-30th june : Num_0 to save game, ok for trolls, check for static placed diamonds
+30th june : Num_0 to save game, ok for trolls, check for static placed diamonds and player sprite: Edit : need to press num_5 before num_0
 -----------
 
 27th june fixed diamonds with run_32.py , need to check saving game
